@@ -1,4 +1,4 @@
-# tictactoe
+# RL - Tictactoe
 This code runs a user-specified number of times in training to determine a mini-max graph of the optimal moves in any state of a tic-tac-toe game. The papers referred to are listed in the code. The bot at the end of training is expected to play a sound game of tic-tac-toe using this graph.
 
 There are two modes: Training and Playing
